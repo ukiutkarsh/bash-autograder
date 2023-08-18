@@ -1,0 +1,12 @@
+https://drive.google.com/file/d/1o2Fq4TLGJiyZFeyIfnF5PLwCVQE7OXS5/view
+https://drive.google.com/file/d/1lJwMrcgLVDFZ5uyqpJZTA9AZMy_gZtsr/view
+https://shapeshed.com/unix-wget/#:~:text=The%20wget%20command%20is%20a,for%20downloads%20and%20viewing%20headers.
+https://linuxhandbook.com/basename/
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+https://tldp.org/LDP/abs/html/
+https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/#:~:text=Cat(concatenate)%20command%20is%20very,some%20frequently%20used%20cat%20commands.
+https://stackoverflow.com/questions/19602181/how-to-extract-one-column-of-a-csv-file
+https://shapeshed.com/unix-sort/#:~:text=How%20to%20sort%20a%20CSV,on%20fields%20within%20a%20CSV.
+https://stackoverflow.com/questions/28521938/how-to-conceal-a-segmentation-fault-in-a-bash-script
+https://rakeshjain-devops.medium.com/download-files-and-directories-from-web-using-curl-and-wget-9217bc2e34c9
+https://stackoverflow.com/questions/918886/how-do-i-split-a-string-on-a-delimiter-in-bash
